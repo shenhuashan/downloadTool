@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tanwei/CLionProjects/downloadTool/Download.h
+curl/curl.h
+-
+string
+-
+mutex
+-
+
+/home/tanwei/CLionProjects/downloadTool/HttpDownload.cpp
+fstream
+-
+cstdio
+-
+iostream
+-
+zconf.h
+-
+thread
+-
+cstring
+-
+HttpDownload.h
+/home/tanwei/CLionProjects/downloadTool/HttpDownload.h
+
+/home/tanwei/CLionProjects/downloadTool/HttpDownload.h
+Download.h
+/home/tanwei/CLionProjects/downloadTool/Download.h
+
+/home/tanwei/CLionProjects/downloadTool/main.cpp
+iostream
+-
+Download.h
+/home/tanwei/CLionProjects/downloadTool/Download.h
+HttpDownload.h
+/home/tanwei/CLionProjects/downloadTool/HttpDownload.h
+

@@ -1,0 +1,3 @@
+/home/tanwei/CLionProjects/downloadTool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tanwei/CLionProjects/downloadTool/cmake-build-debug/CMakeFiles/downloadTool.dir
+/home/tanwei/CLionProjects/downloadTool/cmake-build-debug/CMakeFiles/edit_cache.dir
